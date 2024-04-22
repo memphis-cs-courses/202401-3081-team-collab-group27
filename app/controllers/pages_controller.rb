@@ -9,4 +9,6 @@ class PagesController < ApplicationController
   def CawWoo
   end
 
+  def jfscott80
+  end
 end
