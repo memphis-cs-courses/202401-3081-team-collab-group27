@@ -12,4 +12,6 @@ Rails.application.routes.draw do
   root 'pages#index'
   get 'jfscott80', to: 'pages#jfscott80', as: 'jfscott80'
   get 'codysalerno', to: 'pages#codysalerno', as: 'codysalerno'
+
+  get 'CawWoo', to: 'pages#CawWoo', as: 'cawwoo'
 end

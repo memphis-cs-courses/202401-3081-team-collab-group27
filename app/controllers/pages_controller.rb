@@ -5,6 +5,10 @@ class PagesController < ApplicationController
   end
   def bsiler
   end
+
+  def CawWoo
+  end
+
   def jfscott80
   end
 end
