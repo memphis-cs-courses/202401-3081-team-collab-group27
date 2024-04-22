@@ -3,4 +3,6 @@ class PagesController < ApplicationController
   end
   def codysalerno
   end
+  def bsiler
+  end
 end
